@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #16305D;
+    color: white;
+  }
+  #resultados {
+    display: none;
+    margin-top: 20px;
+    
+  }
+
+  button{
+    border: none;
+    background-color: #0CC80C;
+    color: white;
+    padding: 1rem;
+    outline: none;
+    border-radius: 5px;
+  }
+
+  #resultados{
+    border: 2px white solid;
+    padding: 2rem;
+    color: white;
+    border-radius: 5px;
+  }
